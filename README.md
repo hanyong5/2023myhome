@@ -1,17 +1,6 @@
-# 2023myhome
-## h2
-### h3
-
-[한성용](https://github.com/hanyong5) 😂🤦‍♀️🙌👍😘🤷‍♂️
-
-1. myhome http://www.naver.com
-1. 반갑습니다.
+# my homepage  
+😂🤦‍♀️🙌👍😘🤷‍♂️
 
 
-```html
-<div>test</div>
-```
+1. company https://hanyong5.github.io/2023myhome/01ste
 
-```css
-div.box{width:100px}
-```
